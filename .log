@@ -1,0 +1,12 @@
+2024-02-12 13:07:14,685 [27842] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2024-02-12 13:07:14,685 [27842] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2024-02-12 13:07:14,685 [27842] INFO     root:247: [JupyterRequire] Initializing comms.
+2024-02-12 13:07:14,686 [27842] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2024-02-12 13:07:14,686 [27842] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2024-02-12 13:07:14,687 [27842] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2024-02-12 13:07:29,728 [27842] DEBUG    matplotlib:305: [JupyterRequire] matplotlib data path: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/matplotlib/mpl-data
+2024-02-12 13:07:29,731 [27842] DEBUG    matplotlib:305: [JupyterRequire] CONFIGDIR=/home/julienrm/.config/matplotlib
+2024-02-12 13:07:29,732 [27842] DEBUG    matplotlib:1479: [JupyterRequire] interactive is False
+2024-02-12 13:07:29,732 [27842] DEBUG    matplotlib:1480: [JupyterRequire] platform is linux
+2024-02-12 13:07:29,766 [27842] DEBUG    matplotlib:305: [JupyterRequire] CACHEDIR=/home/julienrm/.cache/matplotlib
+2024-02-12 13:07:29,767 [27842] DEBUG    matplotlib.font_manager:1543: [JupyterRequire] Using fontManager instance from /home/julienrm/.cache/matplotlib/fontlist-v330.json
