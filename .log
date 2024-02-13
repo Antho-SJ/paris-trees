@@ -85,3 +85,17 @@
 2024-02-13 16:07:27,706 [29354] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2024-02-13 16:07:27,707 [29354] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2024-02-13 16:07:27,707 [29354] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2024-02-13 16:31:13,255 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/core/frame.py
+2024-02-13 16:31:13,349 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+2024-02-13 16:31:13,354 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/__init__.py
+2024-02-13 16:31:13,356 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/core/__init__.py
+2024-02-13 16:31:13,419 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/core/generic.py
+2024-02-13 16:31:13,496 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/core/base.py
+2024-02-13 16:31:13,504 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/core/accessor.py
+2024-02-13 16:31:13,533 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/core/indexing.py
+2024-02-13 16:31:13,546 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/core/arraylike.py
+2024-02-13 16:31:13,553 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/_typing.py
+2024-02-13 16:31:13,569 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/lib/python3.8/typing.py
+2024-02-13 16:31:13,580 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+2024-02-13 16:31:13,591 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+2024-02-13 16:31:13,625 [5092] DEBUG    parso.cache:152: [JupyterRequire] pickle loaded: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/pandas/core/series.py
