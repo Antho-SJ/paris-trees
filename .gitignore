@@ -1,6 +1,6 @@
-.log
-
-
 .gitignore
+*.log
 
 Présentation.ipynb
+
+.ipynb_checkpoints/
