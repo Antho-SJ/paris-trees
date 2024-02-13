@@ -61,3 +61,27 @@
 2024-02-13 13:06:41,067 [32172] WARNING  py.warnings:109: [JupyterRequire] /tmp/ipykernel_32172/4184849541.py:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
   df[df['variete'].dropna().apply(lambda x: isinstance(x, float))]
 
+2024-02-13 15:29:19,417 [5092] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2024-02-13 15:29:19,417 [5092] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2024-02-13 15:29:19,417 [5092] INFO     root:247: [JupyterRequire] Initializing comms.
+2024-02-13 15:29:19,419 [5092] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2024-02-13 15:29:19,419 [5092] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2024-02-13 15:29:19,419 [5092] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2024-02-13 15:29:21,462 [5092] DEBUG    matplotlib:305: [JupyterRequire] matplotlib data path: /home/julienrm/.pyenv/versions/3.8.12/envs/lewagon/lib/python3.8/site-packages/matplotlib/mpl-data
+2024-02-13 15:29:21,472 [5092] DEBUG    matplotlib:305: [JupyterRequire] CONFIGDIR=/home/julienrm/.config/matplotlib
+2024-02-13 15:29:21,473 [5092] DEBUG    matplotlib:1479: [JupyterRequire] interactive is False
+2024-02-13 15:29:21,473 [5092] DEBUG    matplotlib:1480: [JupyterRequire] platform is linux
+2024-02-13 15:29:21,535 [5092] DEBUG    matplotlib:305: [JupyterRequire] CACHEDIR=/home/julienrm/.cache/matplotlib
+2024-02-13 15:29:21,550 [5092] DEBUG    matplotlib.font_manager:1543: [JupyterRequire] Using fontManager instance from /home/julienrm/.cache/matplotlib/fontlist-v330.json
+2024-02-13 16:07:26,840 [29354] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2024-02-13 16:07:26,847 [29354] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2024-02-13 16:07:26,847 [29354] INFO     root:247: [JupyterRequire] Initializing comms.
+2024-02-13 16:07:26,883 [29354] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2024-02-13 16:07:26,887 [29354] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2024-02-13 16:07:26,887 [29354] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2024-02-13 16:07:27,703 [29354] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2024-02-13 16:07:27,703 [29354] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2024-02-13 16:07:27,703 [29354] INFO     root:247: [JupyterRequire] Initializing comms.
+2024-02-13 16:07:27,706 [29354] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2024-02-13 16:07:27,707 [29354] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2024-02-13 16:07:27,707 [29354] DEBUG    root:97: [JupyterRequire] Registering comm targets.
