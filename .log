@@ -52,3 +52,12 @@
 2024-02-12 23:07:39,014 [32172] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
 2024-02-12 23:07:39,014 [32172] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
 2024-02-12 23:07:39,014 [32172] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2024-02-13 11:06:09,457 [32172] DEBUG    root:75: [JupyterRequire] Loading Jupyter Require extension.
+2024-02-13 11:06:09,459 [32172] DEBUG    root:93: [JupyterRequire] Initializing comms.
+2024-02-13 11:06:09,459 [32172] INFO     root:247: [JupyterRequire] Initializing comms.
+2024-02-13 11:06:09,466 [32172] DEBUG    root:195: [JupyterRequire] Configuration requested: {'paths': {}, 'shim': None}
+2024-02-13 11:06:09,470 [32172] INFO     root:271: [JupyterRequire] Comms have been successfully initialized.
+2024-02-13 11:06:09,470 [32172] DEBUG    root:97: [JupyterRequire] Registering comm targets.
+2024-02-13 13:06:41,067 [32172] WARNING  py.warnings:109: [JupyterRequire] /tmp/ipykernel_32172/4184849541.py:1: UserWarning: Boolean Series key will be reindexed to match DataFrame index.
+  df[df['variete'].dropna().apply(lambda x: isinstance(x, float))]
+
