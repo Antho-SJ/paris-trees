@@ -1,3 +1,17 @@
-1.description des donn�es 
-2.nettoyage des donn�es 
+1.description des donn�es 
+2.nettoyage des donn�es 
 3.trouver des axes d'analyses 
+
+
+############
+# Objectif #
+############
+
+1/ Determiner un plan d'action pour le renouvelelment de arbres de Paris
+    Utiliser la maturité, la circonference, la taille, variete/espece/genre
+
+2/ Determiner des zones à faible densité d'arbre pour renforcer l'effort de plantation dans ces zones
+    Utiliser les données GPS des arbres
+
+Moins de 1,5 % du patrimoine arboré doit être abattu pour des raisons de sécurité. De jeunes arbres issus de la pépinière de la Ville sont systématiquement replantés.
+
